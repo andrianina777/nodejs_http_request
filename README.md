@@ -16,7 +16,7 @@ node -v
 Clonez ce dépôt sur votre machine locale et accédez au répertoire :
 
 ```bash
-git clone https://votre-repo.git
+git clone https://github.com/andrianina777/nodejs_http_request.git
 cd votre-repertoire
 ```
 

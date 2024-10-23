@@ -16,10 +16,6 @@ Activation windows en ligne
 irm https://massgrave.dev/get|iex
 /**********************************/
 
-https://we.tl/t-eLFpIfl6zr 
-
-
-
  `);
 });
 
